@@ -1,0 +1,202 @@
+Rank,Phase,Pattern,Status,Must-Solve,ID,Title,Difficulty,Acceptance %,Frequency %,URL,Repo Folder,Note
+1,1 - Core patterns (3-star),Two Pointers,Todo,,88,Merge Sorted Array,Easy,55.2%,50.0%,https://leetcode.com/problems/merge-sorted-array,,
+2,1 - Core patterns (3-star),Two Pointers,Todo,,680,Valid Palindrome II,Easy,44.5%,37.5%,https://leetcode.com/problems/valid-palindrome-ii,,
+3,1 - Core patterns (3-star),Two Pointers,Todo,,345,Reverse Vowels of a String,Easy,61.7%,37.5%,https://leetcode.com/problems/reverse-vowels-of-a-string,,
+4,1 - Core patterns (3-star),Two Pointers,Todo,Yes,26,Remove Duplicates from Sorted Array,Easy,63.2%,37.5%,https://leetcode.com/problems/remove-duplicates-from-sorted-array,,
+5,1 - Core patterns (3-star),Two Pointers,Todo,Yes,167,Two Sum II - Input Array Is Sorted,Medium,65.4%,37.5%,https://leetcode.com/problems/two-sum-ii-input-array-is-sorted,,
+6,1 - Core patterns (3-star),Two Pointers,Todo,Yes,15,3Sum,Medium,39.4%,62.5%,https://leetcode.com/problems/3sum,,
+7,1 - Core patterns (3-star),Two Pointers,Todo,Yes,11,Container With Most Water,Medium,60.4%,62.5%,https://leetcode.com/problems/container-with-most-water,,
+8,1 - Core patterns (3-star),Two Pointers,Todo,,75,Sort Colors,Medium,70.0%,37.5%,https://leetcode.com/problems/sort-colors,,
+9,1 - Core patterns (3-star),Two Pointers,Todo,,80,Remove Duplicates from Sorted Array II,Medium,64.9%,37.5%,https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii,,
+10,1 - Core patterns (3-star),Two Pointers,Todo,,16,3Sum Closest,Medium,48.9%,50.0%,https://leetcode.com/problems/3sum-closest,,
+11,1 - Core patterns (3-star),Two Pointers,Todo,,443,String Compression,Medium,60.3%,37.5%,https://leetcode.com/problems/string-compression,,
+12,1 - Core patterns (3-star),Two Pointers,Todo,Yes,18,4Sum,Medium,41.1%,37.5%,https://leetcode.com/problems/4sum,,
+13,1 - Core patterns (3-star),Sliding Window,Todo,,643,Maximum Average Subarray I,Easy,48.4%,37.5%,https://leetcode.com/problems/maximum-average-subarray-i,,
+14,1 - Core patterns (3-star),Sliding Window,Todo,,485,Max Consecutive Ones,Easy,65.6%,50.0%,https://leetcode.com/problems/max-consecutive-ones,,
+15,1 - Core patterns (3-star),Sliding Window,Todo,,219,Contains Duplicate II,Easy,51.5%,37.5%,https://leetcode.com/problems/contains-duplicate-ii,,
+16,1 - Core patterns (3-star),Sliding Window,Todo,,209,Minimum Size Subarray Sum,Medium,52.2%,50.0%,https://leetcode.com/problems/minimum-size-subarray-sum,,
+17,1 - Core patterns (3-star),Sliding Window,Todo,Yes,904,Fruit Into Baskets,Medium,51.7%,50.0%,https://leetcode.com/problems/fruit-into-baskets,,
+18,1 - Core patterns (3-star),Sliding Window,Todo,Yes,1004,Max Consecutive Ones III,Medium,68.0%,37.5%,https://leetcode.com/problems/max-consecutive-ones-iii,,
+19,1 - Core patterns (3-star),Sliding Window,Todo,,1358,Number of Substrings Containing All Three Characters,Medium,74.4%,37.5%,https://leetcode.com/problems/number-of-substrings-containing-all-three-characters,,
+20,1 - Core patterns (3-star),Sliding Window,Todo,,1838,Frequency of the Most Frequent Element,Medium,45.0%,37.5%,https://leetcode.com/problems/frequency-of-the-most-frequent-element,,
+21,1 - Core patterns (3-star),Fast & Slow Pointers,Todo,Yes,141,Linked List Cycle,Easy,54.7%,37.5%,https://leetcode.com/problems/linked-list-cycle,,
+22,1 - Core patterns (3-star),Fast & Slow Pointers,Todo,Yes,876,Middle of the Linked List,Easy,82.1%,37.5%,https://leetcode.com/problems/middle-of-the-linked-list,,
+23,1 - Core patterns (3-star),Fast & Slow Pointers,Todo,Yes,202,Happy Number,Easy,59.9%,50.0%,https://leetcode.com/problems/happy-number,,
+24,1 - Core patterns (3-star),Fast & Slow Pointers,Todo,Yes,142,Linked List Cycle II,Medium,58.5%,37.5%,https://leetcode.com/problems/linked-list-cycle-ii,,
+25,1 - Core patterns (3-star),Fast & Slow Pointers,Todo,Yes,287,Find the Duplicate Number,Medium,64.6%,50.0%,https://leetcode.com/problems/find-the-duplicate-number,,
+26,1 - Core patterns (3-star),Binary Search,Todo,Yes,35,Search Insert Position,Easy,51.7%,37.5%,https://leetcode.com/problems/search-insert-position,,
+27,1 - Core patterns (3-star),Binary Search,Todo,,278,First Bad Version,Easy,47.3%,37.5%,https://leetcode.com/problems/first-bad-version,,
+28,1 - Core patterns (3-star),Binary Search,Todo,,69,Sqrt(x),Easy,42.1%,62.5%,https://leetcode.com/problems/sqrtx,,
+29,1 - Core patterns (3-star),Binary Search,Todo,,74,Search a 2D Matrix,Medium,54.3%,37.5%,https://leetcode.com/problems/search-a-2d-matrix,,
+30,1 - Core patterns (3-star),Binary Search,Todo,,162,Find Peak Element,Medium,47.1%,37.5%,https://leetcode.com/problems/find-peak-element,,
+31,1 - Core patterns (3-star),Binary Search,Todo,,540,Single Element in a Sorted Array,Medium,59.3%,50.0%,https://leetcode.com/problems/single-element-in-a-sorted-array,,
+32,1 - Core patterns (3-star),Binary Tree / DFS,Todo,,94,Binary Tree Inorder Traversal,Easy,80.3%,37.5%,https://leetcode.com/problems/binary-tree-inorder-traversal,,Zero tree coverage in your repo - highest-leverage gap
+33,1 - Core patterns (3-star),Binary Tree / DFS,Todo,,100,Same Tree,Easy,67.5%,37.5%,https://leetcode.com/problems/same-tree,,Zero tree coverage in your repo - highest-leverage gap
+34,1 - Core patterns (3-star),Binary Tree / DFS,Todo,,101,Symmetric Tree,Easy,61.6%,37.5%,https://leetcode.com/problems/symmetric-tree,,Zero tree coverage in your repo - highest-leverage gap
+35,1 - Core patterns (3-star),Binary Tree / DFS,Todo,,110,Balanced Binary Tree,Easy,58.7%,37.5%,https://leetcode.com/problems/balanced-binary-tree,,Zero tree coverage in your repo - highest-leverage gap
+36,1 - Core patterns (3-star),Binary Tree / DFS,Todo,,700,Search in a Binary Search Tree,Easy,82.9%,50.0%,https://leetcode.com/problems/search-in-a-binary-search-tree,,Zero tree coverage in your repo - highest-leverage gap
+37,1 - Core patterns (3-star),Binary Tree / DFS,Todo,,108,Convert Sorted Array to Binary Search Tree,Easy,75.8%,37.5%,https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree,,Zero tree coverage in your repo - highest-leverage gap
+38,1 - Core patterns (3-star),Binary Tree / DFS,Todo,,114,Flatten Binary Tree to Linked List,Medium,71.1%,37.5%,https://leetcode.com/problems/flatten-binary-tree-to-linked-list,,Zero tree coverage in your repo - highest-leverage gap
+39,1 - Core patterns (3-star),Binary Tree / DFS,Todo,,662,Maximum Width of Binary Tree,Medium,45.8%,37.5%,https://leetcode.com/problems/maximum-width-of-binary-tree,,Zero tree coverage in your repo - highest-leverage gap
+40,1 - Core patterns (3-star),Binary Tree / DFS,Todo,,863,All Nodes Distance K in Binary Tree,Medium,67.8%,37.5%,https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree,,Zero tree coverage in your repo - highest-leverage gap
+41,1 - Core patterns (3-star),Binary Tree / DFS,Todo,,1110,Delete Nodes And Return Forest,Medium,72.5%,37.5%,https://leetcode.com/problems/delete-nodes-and-return-forest,,Zero tree coverage in your repo - highest-leverage gap
+42,1 - Core patterns (3-star),Graph DFS & BFS,Todo,Yes,200,Number of Islands,Medium,64.7%,37.5%,https://leetcode.com/problems/number-of-islands,,Zero graph coverage in your repo
+43,1 - Core patterns (3-star),Graph DFS & BFS,Todo,,695,Max Area of Island,Medium,74.1%,37.5%,https://leetcode.com/problems/max-area-of-island,,Zero graph coverage in your repo
+44,1 - Core patterns (3-star),Graph DFS & BFS,Todo,Yes,994,Rotting Oranges,Medium,59.0%,37.5%,https://leetcode.com/problems/rotting-oranges,,Zero graph coverage in your repo
+45,1 - Core patterns (3-star),Graph DFS & BFS,Todo,,417,Pacific Atlantic Water Flow,Medium,61.2%,37.5%,https://leetcode.com/problems/pacific-atlantic-water-flow,,Zero graph coverage in your repo
+46,1 - Core patterns (3-star),Backtracking,Todo,Yes,46,Permutations,Medium,82.1%,37.5%,https://leetcode.com/problems/permutations,,Zero backtracking coverage in your repo
+47,1 - Core patterns (3-star),Backtracking,Todo,Yes,90,Subsets II,Medium,61.6%,37.5%,https://leetcode.com/problems/subsets-ii,,Zero backtracking coverage in your repo
+48,1 - Core patterns (3-star),Backtracking,Todo,Yes,39,Combination Sum,Medium,76.8%,37.5%,https://leetcode.com/problems/combination-sum,,Zero backtracking coverage in your repo
+49,1 - Core patterns (3-star),Backtracking,Todo,Yes,17,Letter Combinations of a Phone Number,Medium,66.4%,37.5%,https://leetcode.com/problems/letter-combinations-of-a-phone-number,,Zero backtracking coverage in your repo
+50,1 - Core patterns (3-star),Backtracking,Todo,,22,Generate Parentheses,Medium,78.9%,37.5%,https://leetcode.com/problems/generate-parentheses,,Zero backtracking coverage in your repo
+51,1 - Core patterns (3-star),Dynamic Programming,Todo,Yes,70,Climbing Stairs,Easy,54.2%,50.0%,https://leetcode.com/problems/climbing-stairs,,Zero DP coverage in your repo - 27 DP problems in this list
+52,1 - Core patterns (3-star),Dynamic Programming,Todo,,509,Fibonacci Number,Easy,74.3%,37.5%,https://leetcode.com/problems/fibonacci-number,,Zero DP coverage in your repo - 27 DP problems in this list
+53,1 - Core patterns (3-star),Dynamic Programming,Todo,Yes,198,House Robber,Medium,53.4%,37.5%,https://leetcode.com/problems/house-robber,,Zero DP coverage in your repo - 27 DP problems in this list
+54,1 - Core patterns (3-star),Dynamic Programming,Todo,,53,Maximum Subarray,Medium,53.5%,50.0%,https://leetcode.com/problems/maximum-subarray,,Zero DP coverage in your repo - 27 DP problems in this list
+55,1 - Core patterns (3-star),Dynamic Programming,Todo,Yes,322,Coin Change,Medium,48.7%,37.5%,https://leetcode.com/problems/coin-change,,Zero DP coverage in your repo - 27 DP problems in this list
+56,1 - Core patterns (3-star),Dynamic Programming,Todo,Yes,518,Coin Change II,Medium,59.6%,37.5%,https://leetcode.com/problems/coin-change-ii,,Zero DP coverage in your repo - 27 DP problems in this list
+57,1 - Core patterns (3-star),Dynamic Programming,Todo,Yes,300,Longest Increasing Subsequence,Medium,59.7%,37.5%,https://leetcode.com/problems/longest-increasing-subsequence,,Zero DP coverage in your repo - 27 DP problems in this list
+58,1 - Core patterns (3-star),Dynamic Programming,Todo,Yes,72,Edit Distance,Medium,60.9%,37.5%,https://leetcode.com/problems/edit-distance,,Zero DP coverage in your repo - 27 DP problems in this list
+59,1 - Core patterns (3-star),Dynamic Programming,Todo,,5,Longest Palindromic Substring,Medium,38.2%,50.0%,https://leetcode.com/problems/longest-palindromic-substring,,Zero DP coverage in your repo - 27 DP problems in this list
+60,1 - Core patterns (3-star),Dynamic Programming,Todo,,152,Maximum Product Subarray,Medium,36.7%,37.5%,https://leetcode.com/problems/maximum-product-subarray,,Zero DP coverage in your repo - 27 DP problems in this list
+61,1 - Core patterns (3-star),Dynamic Programming,Todo,,918,Maximum Sum Circular Subarray,Medium,50.7%,37.5%,https://leetcode.com/problems/maximum-sum-circular-subarray,,Zero DP coverage in your repo - 27 DP problems in this list
+62,1 - Core patterns (3-star),Dynamic Programming,Todo,,96,Unique Binary Search Trees,Medium,63.9%,37.5%,https://leetcode.com/problems/unique-binary-search-trees,,Zero DP coverage in your repo - 27 DP problems in this list
+63,1 - Core patterns (3-star),Dynamic Programming,Todo,,343,Integer Break,Medium,62.5%,37.5%,https://leetcode.com/problems/integer-break,,Zero DP coverage in your repo - 27 DP problems in this list
+64,1 - Core patterns (3-star),Dynamic Programming,Todo,,368,Largest Divisible Subset,Medium,49.9%,37.5%,https://leetcode.com/problems/largest-divisible-subset,,Zero DP coverage in your repo - 27 DP problems in this list
+65,2 - Secondary patterns (2-star),Monotonic Stack,Todo,Yes,496,Next Greater Element I,Easy,76.5%,37.5%,https://leetcode.com/problems/next-greater-element-i,,
+66,2 - Secondary patterns (2-star),Monotonic Stack,Todo,Yes,503,Next Greater Element II,Medium,68.7%,37.5%,https://leetcode.com/problems/next-greater-element-ii,,
+67,2 - Secondary patterns (2-star),Monotonic Stack,Todo,,907,Sum of Subarray Minimums,Medium,38.8%,37.5%,https://leetcode.com/problems/sum-of-subarray-minimums,,
+68,2 - Secondary patterns (2-star),Heap / Priority Queue,Todo,,1046,Last Stone Weight,Easy,66.6%,37.5%,https://leetcode.com/problems/last-stone-weight,,
+69,2 - Secondary patterns (2-star),Heap / Priority Queue,Todo,Yes,215,Kth Largest Element in an Array,Medium,69.1%,50.0%,https://leetcode.com/problems/kth-largest-element-in-an-array,,
+70,2 - Secondary patterns (2-star),Heap / Priority Queue,Todo,,2225,Find Players With Zero or One Losses,Medium,72.4%,37.5%,https://leetcode.com/problems/find-players-with-zero-or-one-losses,,
+71,2 - Secondary patterns (2-star),Prefix Sum,Todo,,1480,Running Sum of 1d Array,Easy,87.0%,37.5%,https://leetcode.com/problems/running-sum-of-1d-array,,
+72,2 - Secondary patterns (2-star),Prefix Sum,Todo,,1732,Find the Highest Altitude,Easy,84.7%,50.0%,https://leetcode.com/problems/find-the-highest-altitude,,
+73,2 - Secondary patterns (2-star),Prefix Sum,Todo,Yes,560,Subarray Sum Equals K,Medium,47.7%,50.0%,https://leetcode.com/problems/subarray-sum-equals-k,,
+74,2 - Secondary patterns (2-star),Prefix Sum,Todo,,974,Subarray Sums Divisible by K,Medium,56.5%,37.5%,https://leetcode.com/problems/subarray-sums-divisible-by-k,,
+75,2 - Secondary patterns (2-star),Prefix Sum,Todo,,238,Product of Array Except Self,Medium,69.1%,37.5%,https://leetcode.com/problems/product-of-array-except-self,,
+76,2 - Secondary patterns (2-star),Prefix Sum,Todo,,3737,Count Subarrays With Majority Element I,Medium,75.7%,37.5%,https://leetcode.com/problems/count-subarrays-with-majority-element-i,,
+77,2 - Secondary patterns (2-star),Greedy / Intervals,Todo,,605,Can Place Flowers,Easy,29.2%,37.5%,https://leetcode.com/problems/can-place-flowers,,"Acceptance 29.2% - lowest in the list, edge cases bite"
+78,2 - Secondary patterns (2-star),Greedy / Intervals,Todo,,1502,Can Make Arithmetic Progression From Sequence,Easy,68.8%,37.5%,https://leetcode.com/problems/can-make-arithmetic-progression-from-sequence,,
+79,2 - Secondary patterns (2-star),Greedy / Intervals,Todo,Yes,55,Jump Game,Medium,41.2%,37.5%,https://leetcode.com/problems/jump-game,,
+80,2 - Secondary patterns (2-star),Greedy / Intervals,Todo,Yes,45,Jump Game II,Medium,43.1%,37.5%,https://leetcode.com/problems/jump-game-ii,,
+81,2 - Secondary patterns (2-star),Greedy / Intervals,Todo,,122,Best Time to Buy and Sell Stock II,Medium,71.3%,50.0%,https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii,,
+82,2 - Secondary patterns (2-star),Greedy / Intervals,Todo,Yes,452,Minimum Number of Arrows to Burst Balloons,Medium,61.7%,37.5%,https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons,,
+83,2 - Secondary patterns (2-star),Greedy / Intervals,Todo,,1288,Remove Covered Intervals,Medium,60.0%,37.5%,https://leetcode.com/problems/remove-covered-intervals,,
+84,2 - Secondary patterns (2-star),Greedy / Intervals,Todo,,1846,Maximum Element After Decreasing and Rearranging,Medium,69.1%,37.5%,https://leetcode.com/problems/maximum-element-after-decreasing-and-rearranging,,
+85,2 - Secondary patterns (2-star),Topological Sort,Todo,Yes,207,Course Schedule,Medium,51.8%,37.5%,https://leetcode.com/problems/course-schedule,,
+86,2 - Secondary patterns (2-star),Dijkstra,Todo,Yes,743,Network Delay Time,Medium,61.0%,37.5%,https://leetcode.com/problems/network-delay-time,,
+87,2 - Secondary patterns (2-star),Dijkstra,Todo,,1631,Path With Minimum Effort,Medium,63.6%,37.5%,https://leetcode.com/problems/path-with-minimum-effort,,
+88,2 - Secondary patterns (2-star),Dijkstra,Todo,,3286,Find a Safe Walk Through a Grid,Medium,55.3%,37.5%,https://leetcode.com/problems/find-a-safe-walk-through-a-grid,,
+89,2 - Secondary patterns (2-star),Dijkstra,Todo,,2812,Find the Safest Path in a Grid,Medium,57.2%,37.5%,https://leetcode.com/problems/find-the-safest-path-in-a-grid,,
+90,2 - Secondary patterns (2-star),Union-Find,Todo,,128,Longest Consecutive Sequence,Medium,47.2%,62.5%,https://leetcode.com/problems/longest-consecutive-sequence,,
+91,2 - Secondary patterns (2-star),Union-Find,Todo,,2492,Minimum Score of a Path Between Two Cities,Medium,66.2%,37.5%,https://leetcode.com/problems/minimum-score-of-a-path-between-two-cities,,
+92,2 - Secondary patterns (2-star),Union-Find,Todo,,3532,Path Existence Queries in a Graph I,Medium,70.7%,37.5%,https://leetcode.com/problems/path-existence-queries-in-a-graph-i,,
+93,2 - Secondary patterns (2-star),Trie / Prefix,Todo,,14,Longest Common Prefix,Easy,47.9%,62.5%,https://leetcode.com/problems/longest-common-prefix,,
+94,2 - Secondary patterns (2-star),Trie / Prefix,Todo,,3043,Find the Length of the Longest Common Prefix,Medium,62.3%,37.5%,https://leetcode.com/problems/find-the-length-of-the-longest-common-prefix,,
+95,2 - Secondary patterns (2-star),Linked List,Todo,,2,Add Two Numbers,Medium,48.8%,75.0%,https://leetcode.com/problems/add-two-numbers,,Freq 75%
+96,2 - Secondary patterns (2-star),Linked List,Todo,,19,Remove Nth Node From End of List,Medium,52.0%,37.5%,https://leetcode.com/problems/remove-nth-node-from-end-of-list,,
+97,2 - Secondary patterns (2-star),Linked List,Todo,,2095,Delete the Middle Node of a Linked List,Medium,60.9%,37.5%,https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list,,
+98,2 - Secondary patterns (2-star),Linked List,Todo,,237,Delete Node in a Linked List,Medium,84.1%,37.5%,https://leetcode.com/problems/delete-node-in-a-linked-list,,
+99,2 - Secondary patterns (2-star),Linked List,Todo,,148,Sort List,Medium,64.8%,37.5%,https://leetcode.com/problems/sort-list,,
+100,2 - Secondary patterns (2-star),Stack,Todo,,225,Implement Stack using Queues,Easy,70.4%,37.5%,https://leetcode.com/problems/implement-stack-using-queues,,
+101,2 - Secondary patterns (2-star),Stack,Todo,,1021,Remove Outermost Parentheses,Easy,87.3%,37.5%,https://leetcode.com/problems/remove-outermost-parentheses,,
+102,2 - Secondary patterns (2-star),Stack,Todo,,150,Evaluate Reverse Polish Notation,Medium,58.2%,37.5%,https://leetcode.com/problems/evaluate-reverse-polish-notation,,
+103,3 - Hard extensions of core patterns,Two Pointers / Monotonic Stack,Todo,Yes,42,Trapping Rain Water,Hard,67.7%,75.0%,https://leetcode.com/problems/trapping-rain-water,,Interview-grade hard; attempt only after the Phase 1/2 block it extends
+104,3 - Hard extensions of core patterns,Monotonic Stack,Todo,Yes,84,Largest Rectangle in Histogram,Hard,50.3%,50.0%,https://leetcode.com/problems/largest-rectangle-in-histogram,,Interview-grade hard; attempt only after the Phase 1/2 block it extends
+105,3 - Hard extensions of core patterns,Monotonic Stack,Todo,,1944,Number of Visible People in a Queue,Hard,73.3%,50.0%,https://leetcode.com/problems/number-of-visible-people-in-a-queue,,
+106,3 - Hard extensions of core patterns,Sliding Window,Todo,Yes,76,Minimum Window Substring,Hard,47.9%,37.5%,https://leetcode.com/problems/minimum-window-substring,,Interview-grade hard; attempt only after the Phase 1/2 block it extends
+107,3 - Hard extensions of core patterns,Binary Search,Todo,Yes,410,Split Array Largest Sum,Hard,60.9%,50.0%,https://leetcode.com/problems/split-array-largest-sum,,Interview-grade hard; attempt only after the Phase 1/2 block it extends
+108,3 - Hard extensions of core patterns,Binary Search,Todo,,4,Median of Two Sorted Arrays,Hard,47.0%,75.0%,https://leetcode.com/problems/median-of-two-sorted-arrays,,Interview-grade hard; attempt only after the Phase 1/2 block it extends
+109,3 - Hard extensions of core patterns,Heap / Priority Queue,Todo,Yes,295,Find Median from Data Stream,Hard,54.7%,37.5%,https://leetcode.com/problems/find-median-from-data-stream,,Interview-grade hard; attempt only after the Phase 1/2 block it extends
+110,3 - Hard extensions of core patterns,Backtracking,Todo,Yes,51,N-Queens,Hard,76.0%,50.0%,https://leetcode.com/problems/n-queens,,Interview-grade hard; attempt only after the Phase 1/2 block it extends
+111,3 - Hard extensions of core patterns,Graph / Eulerian Path,Todo,,332,Reconstruct Itinerary,Hard,44.7%,37.5%,https://leetcode.com/problems/reconstruct-itinerary,,
+112,3 - Hard extensions of core patterns,Union-Find,Todo,,2421,Number of Good Paths,Hard,56.5%,37.5%,https://leetcode.com/problems/number-of-good-paths,,
+113,3 - Hard extensions of core patterns,Union-Find,Todo,,3534,Path Existence Queries in a Graph II,Hard,64.6%,37.5%,https://leetcode.com/problems/path-existence-queries-in-a-graph-ii,,
+114,3 - Hard extensions of core patterns,Fast & Slow Pointers,Todo,,457,Circular Array Loop,Medium,37.8%,37.5%,https://leetcode.com/problems/circular-array-loop,,
+115,3 - Hard extensions of core patterns,Greedy / Difference Array,Todo,,135,Candy,Hard,48.8%,37.5%,https://leetcode.com/problems/candy,,
+116,3 - Hard extensions of core patterns,Greedy / Difference Array,Todo,,1589,Maximum Sum Obtained of Any Permutation,Medium,41.2%,37.5%,https://leetcode.com/problems/maximum-sum-obtained-of-any-permutation,,
+117,3 - Hard extensions of core patterns,Array / In-place Hashing,Todo,,41,First Missing Positive,Hard,43.2%,37.5%,https://leetcode.com/problems/first-missing-positive,,
+118,3 - Hard extensions of core patterns,Hashing + Sorting,Todo,,2007,Find Original Array From Doubled Array,Medium,40.9%,37.5%,https://leetcode.com/problems/find-original-array-from-doubled-array,,
+119,3 - Hard extensions of core patterns,Hashing + Sorting,Todo,,3020,Find the Maximum Number of Elements in Subset,Medium,42.3%,37.5%,https://leetcode.com/problems/find-the-maximum-number-of-elements-in-subset,,
+120,3 - Hard extensions of core patterns,Dynamic Programming,Todo,,10,Regular Expression Matching,Hard,31.2%,37.5%,https://leetcode.com/problems/regular-expression-matching,,
+121,3 - Hard extensions of core patterns,Dynamic Programming,Todo,,312,Burst Balloons,Hard,63.9%,37.5%,https://leetcode.com/problems/burst-balloons,,
+122,3 - Hard extensions of core patterns,Dynamic Programming,Todo,,403,Frog Jump,Hard,47.4%,37.5%,https://leetcode.com/problems/frog-jump,,
+123,3 - Hard extensions of core patterns,Dynamic Programming,Todo,,1406,Stone Game III,Hard,63.4%,37.5%,https://leetcode.com/problems/stone-game-iii,,
+124,3 - Hard extensions of core patterns,Dynamic Programming,Todo,,741,Cherry Pickup,Hard,39.9%,37.5%,https://leetcode.com/problems/cherry-pickup,,
+125,3 - Hard extensions of core patterns,Dynamic Programming,Todo,,2484,Count Palindromic Subsequences,Hard,41.5%,37.5%,https://leetcode.com/problems/count-palindromic-subsequences,,
+126,3 - Hard extensions of core patterns,Dynamic Programming,Todo,,1301,Number of Paths with Max Score,Hard,64.3%,37.5%,https://leetcode.com/problems/number-of-paths-with-max-score,,
+127,4 - Supporting patterns & implementation,Divide & Conquer / Sorting,Todo,,912,Sort an Array,Medium,55.9%,50.0%,https://leetcode.com/problems/sort-an-array,,
+128,4 - Supporting patterns & implementation,Divide & Conquer / Sorting,Todo,,50,"Pow(x, n)",Medium,38.9%,62.5%,https://leetcode.com/problems/powx-n,,
+129,4 - Supporting patterns & implementation,Divide & Conquer / Sorting,Todo,,315,Count of Smaller Numbers After Self,Hard,43.8%,37.5%,https://leetcode.com/problems/count-of-smaller-numbers-after-self,,
+130,4 - Supporting patterns & implementation,Divide & Conquer / Sorting,Todo,,493,Reverse Pairs,Hard,34.7%,37.5%,https://leetcode.com/problems/reverse-pairs,,
+131,4 - Supporting patterns & implementation,Bit Manipulation,Todo,,268,Missing Number,Easy,72.3%,50.0%,https://leetcode.com/problems/missing-number,,
+132,4 - Supporting patterns & implementation,Bit Manipulation,Todo,Yes,137,Single Number II,Medium,67.4%,37.5%,https://leetcode.com/problems/single-number-ii,,
+133,4 - Supporting patterns & implementation,Bit Manipulation,Todo,,371,Sum of Two Integers,Medium,55.8%,37.5%,https://leetcode.com/problems/sum-of-two-integers,,
+134,4 - Supporting patterns & implementation,Matrix Manipulation,Todo,,832,Flipping an Image,Easy,83.9%,37.5%,https://leetcode.com/problems/flipping-an-image,,
+135,4 - Supporting patterns & implementation,Matrix Manipulation,Todo,,48,Rotate Image,Medium,80.4%,50.0%,https://leetcode.com/problems/rotate-image,,
+136,4 - Supporting patterns & implementation,Matrix Manipulation,Todo,,54,Spiral Matrix,Medium,57.2%,50.0%,https://leetcode.com/problems/spiral-matrix,,
+137,4 - Supporting patterns & implementation,Matrix Manipulation,Todo,,73,Set Matrix Zeroes,Medium,63.3%,37.5%,https://leetcode.com/problems/set-matrix-zeroes,,
+138,4 - Supporting patterns & implementation,Hashing / Arrays,Todo,,205,Isomorphic Strings,Easy,48.7%,37.5%,https://leetcode.com/problems/isomorphic-strings,,
+139,4 - Supporting patterns & implementation,Hashing / Arrays,Todo,,290,Word Pattern,Easy,44.3%,37.5%,https://leetcode.com/problems/word-pattern,,
+140,4 - Supporting patterns & implementation,Hashing / Arrays,Todo,,228,Summary Ranges,Easy,54.4%,37.5%,https://leetcode.com/problems/summary-ranges,,
+141,4 - Supporting patterns & implementation,Hashing / Arrays,Todo,,1189,Maximum Number of Balloons,Easy,64.2%,37.5%,https://leetcode.com/problems/maximum-number-of-balloons,,
+142,4 - Supporting patterns & implementation,Hashing / Arrays,Todo,,1979,Find Greatest Common Divisor of Array,Easy,80.1%,37.5%,https://leetcode.com/problems/find-greatest-common-divisor-of-array,,
+143,4 - Supporting patterns & implementation,Hashing / Arrays,Todo,,2150,Find All Lonely Numbers in the Array,Medium,63.6%,37.5%,https://leetcode.com/problems/find-all-lonely-numbers-in-the-array,,
+144,4 - Supporting patterns & implementation,Hashing / Arrays,Todo,,299,Bulls and Cows,Medium,52.7%,37.5%,https://leetcode.com/problems/bulls-and-cows,,
+145,4 - Supporting patterns & implementation,String / Math Implementation,Todo,,9,Palindrome Number,Easy,60.7%,75.0%,https://leetcode.com/problems/palindrome-number,,"Freq 75% but trivial - fast win, do it in 5 min"
+146,4 - Supporting patterns & implementation,String / Math Implementation,Todo,,13,Roman to Integer,Easy,66.8%,37.5%,https://leetcode.com/problems/roman-to-integer,,
+147,4 - Supporting patterns & implementation,String / Math Implementation,Todo,,58,Length of Last Word,Easy,59.2%,50.0%,https://leetcode.com/problems/length-of-last-word,,
+148,4 - Supporting patterns & implementation,String / Math Implementation,Todo,,67,Add Binary,Easy,58.3%,37.5%,https://leetcode.com/problems/add-binary,,
+149,4 - Supporting patterns & implementation,String / Math Implementation,Todo,,1768,Merge Strings Alternately,Easy,82.1%,50.0%,https://leetcode.com/problems/merge-strings-alternately,,
+150,4 - Supporting patterns & implementation,String / Math Implementation,Todo,,1295,Find Numbers with Even Number of Digits,Easy,79.9%,37.5%,https://leetcode.com/problems/find-numbers-with-even-number-of-digits,,
+151,4 - Supporting patterns & implementation,String / Math Implementation,Todo,,7,Reverse Integer,Medium,32.1%,62.5%,https://leetcode.com/problems/reverse-integer,,
+152,4 - Supporting patterns & implementation,String / Math Implementation,Todo,,8,String to Integer (atoi),Medium,21.3%,50.0%,https://leetcode.com/problems/string-to-integer-atoi,,"Acceptance 21.3% - pure edge-case parsing, low algorithmic value"
+153,4 - Supporting patterns & implementation,String / Math Implementation,Todo,,189,Rotate Array,Medium,45.2%,62.5%,https://leetcode.com/problems/rotate-array,,
+154,4 - Supporting patterns & implementation,String / Math Implementation,Todo,,31,Next Permutation,Medium,45.6%,37.5%,https://leetcode.com/problems/next-permutation,,
+155,4 - Supporting patterns & implementation,String / Math Implementation,Todo,,38,Count and Say,Medium,63.3%,37.5%,https://leetcode.com/problems/count-and-say,,
+156,4 - Supporting patterns & implementation,String / Math Implementation,Todo,,1344,Angle Between Hands of a Clock,Medium,69.7%,37.5%,https://leetcode.com/problems/angle-between-hands-of-a-clock,,
+157,5 - Low yield for this loop,Novelty / Low Signal,Todo,,412,Fizz Buzz,Easy,75.7%,37.5%,https://leetcode.com/problems/fizz-buzz,,Near-zero interview signal - skip unless you want a warm-up
+158,5 - Low yield for this loop,Novelty / Low Signal,Todo,,1929,Concatenation of Array,Easy,90.2%,50.0%,https://leetcode.com/problems/concatenation-of-array,,Near-zero interview signal - skip unless you want a warm-up
+159,5 - Low yield for this loop,Novelty / Low Signal,Todo,,2667,Create Hello World Function,Easy,81.9%,37.5%,https://leetcode.com/problems/create-hello-world-function,,Near-zero interview signal - skip unless you want a warm-up
+160,5 - Low yield for this loop,Novelty / Low Signal,Todo,,1967,Number of Strings That Appear as Substrings in Word,Easy,86.1%,37.5%,https://leetcode.com/problems/number-of-strings-that-appear-as-substrings-in-word,,Near-zero interview signal - skip unless you want a warm-up
+161,5 - Low yield for this loop,Novelty / Low Signal,Todo,,2913,Subarrays Distinct Element Sum of Squares I,Easy,80.3%,37.5%,https://leetcode.com/problems/subarrays-distinct-element-sum-of-squares-i,,Near-zero interview signal - skip unless you want a warm-up
+162,5 - Low yield for this loop,Novelty / Low Signal,Todo,,3754,Concatenate Non-Zero Digits and Multiply by Sum I,Easy,66.3%,37.5%,https://leetcode.com/problems/concatenate-non-zero-digits-and-multiply-by-sum-i,,Near-zero interview signal - skip unless you want a warm-up
+163,5 - Low yield for this loop,Niche Advanced (Segment Tree / Counting DP),Todo,,2407,Longest Increasing Subsequence II,Hard,26.4%,37.5%,https://leetcode.com/problems/longest-increasing-subsequence-ii,,Acceptance 26.4%
+164,5 - Low yield for this loop,Niche Advanced (Segment Tree / Counting DP),Todo,,3699,Number of ZigZag Arrays I,Hard,50.5%,50.0%,https://leetcode.com/problems/number-of-zigzag-arrays-i,,"Obscure - needs segment tree / counting DP, very unlikely in a Google loop"
+165,5 - Low yield for this loop,Niche Advanced (Segment Tree / Counting DP),Todo,,3700,Number of ZigZag Arrays II,Hard,67.6%,37.5%,https://leetcode.com/problems/number-of-zigzag-arrays-ii,,"Obscure - needs segment tree / counting DP, very unlikely in a Google loop"
+166,5 - Low yield for this loop,SQL,Todo,,1757,Recyclable and Low Fat Products,Easy,88.6%,50.0%,https://leetcode.com/problems/recyclable-and-low-fat-products,,SQL - not asked in a standard Google SWE loop; skip unless your role is data-adjacent
+167,5 - Low yield for this loop,SQL,Todo,,175,Combine Two Tables,Easy,79.7%,50.0%,https://leetcode.com/problems/combine-two-tables,,SQL - not asked in a standard Google SWE loop; skip unless your role is data-adjacent
+168,5 - Low yield for this loop,SQL,Todo,,183,Customers Who Never Order,Easy,72.0%,37.5%,https://leetcode.com/problems/customers-who-never-order,,SQL - not asked in a standard Google SWE loop; skip unless your role is data-adjacent
+169,5 - Low yield for this loop,SQL,Todo,,584,Find Customer Referee,Easy,73.1%,37.5%,https://leetcode.com/problems/find-customer-referee,,SQL - not asked in a standard Google SWE loop; skip unless your role is data-adjacent
+170,5 - Low yield for this loop,SQL,Todo,,1148,Article Views I,Easy,76.7%,37.5%,https://leetcode.com/problems/article-views-i,,SQL - not asked in a standard Google SWE loop; skip unless your role is data-adjacent
+171,5 - Low yield for this loop,SQL,Todo,,197,Rising Temperature,Easy,51.6%,37.5%,https://leetcode.com/problems/rising-temperature,,SQL - not asked in a standard Google SWE loop; skip unless your role is data-adjacent
+172,5 - Low yield for this loop,SQL,Todo,,196,Delete Duplicate Emails,Easy,66.3%,37.5%,https://leetcode.com/problems/delete-duplicate-emails,,SQL - not asked in a standard Google SWE loop; skip unless your role is data-adjacent
+173,5 - Low yield for this loop,SQL,Todo,,1795,Rearrange Products Table,Easy,85.5%,37.5%,https://leetcode.com/problems/rearrange-products-table,,SQL - not asked in a standard Google SWE loop; skip unless your role is data-adjacent
+174,5 - Low yield for this loop,SQL,Todo,,1661,Average Time of Process per Machine,Easy,66.8%,37.5%,https://leetcode.com/problems/average-time-of-process-per-machine,,SQL - not asked in a standard Google SWE loop; skip unless your role is data-adjacent
+175,5 - Low yield for this loop,SQL,Todo,,181,Employees Earning More Than Their Managers,Easy,73.5%,37.5%,https://leetcode.com/problems/employees-earning-more-than-their-managers,,SQL - not asked in a standard Google SWE loop; skip unless your role is data-adjacent
+176,5 - Low yield for this loop,SQL,Todo,,176,Second Highest Salary,Medium,47.5%,37.5%,https://leetcode.com/problems/second-highest-salary,,SQL - not asked in a standard Google SWE loop; skip unless your role is data-adjacent
+177,5 - Low yield for this loop,SQL,Todo,,180,Consecutive Numbers,Medium,48.8%,37.5%,https://leetcode.com/problems/consecutive-numbers,,SQL - not asked in a standard Google SWE loop; skip unless your role is data-adjacent
+178,5 - Low yield for this loop,SQL,Todo,,1341,Movie Rating,Medium,43.8%,37.5%,https://leetcode.com/problems/movie-rating,,SQL - not asked in a standard Google SWE loop; skip unless your role is data-adjacent
+179,5 - Low yield for this loop,SQL,Todo,,1907,Count Salary Categories,Medium,64.8%,37.5%,https://leetcode.com/problems/count-salary-categories,,SQL - not asked in a standard Google SWE loop; skip unless your role is data-adjacent
+,Done - already in your repo,Already Solved,Solved,,1,Two Sum,Easy,57.8%,100.0%,https://leetcode.com/problems/two-sum,two-integer-sum,
+,Done - already in your repo,Already Solved,Solved,Yes,3,Longest Substring Without Repeating Characters,Medium,39.4%,75.0%,https://leetcode.com/problems/longest-substring-without-repeating-characters,longest-substring-without-duplicates,
+,Done - already in your repo,Already Solved,Solved,,20,Valid Parentheses,Easy,44.5%,62.5%,https://leetcode.com/problems/valid-parentheses,validate-parentheses,
+,Done - already in your repo,Already Solved,Solved,,21,Merge Two Sorted Lists,Easy,68.5%,62.5%,https://leetcode.com/problems/merge-two-sorted-lists,merge-two-sorted-linked-lists,
+,Done - already in your repo,Already Solved,Solved,,27,Remove Element,Easy,62.1%,50.0%,https://leetcode.com/problems/remove-element,remove-element,
+,Done - already in your repo,Already Solved,Solved,Yes,33,Search in Rotated Sorted Array,Medium,45.2%,50.0%,https://leetcode.com/problems/search-in-rotated-sorted-array,find-target-in-rotated-sorted-array,
+,Done - already in your repo,Already Solved,Solved,,49,Group Anagrams,Medium,72.9%,37.5%,https://leetcode.com/problems/group-anagrams,anagram-groups,
+,Done - already in your repo,Already Solved,Solved,,121,Best Time to Buy and Sell Stock,Easy,57.0%,62.5%,https://leetcode.com/problems/best-time-to-buy-and-sell-stock,buy-and-sell-crypto,
+,Done - already in your repo,Already Solved,Solved,,125,Valid Palindrome,Easy,53.7%,37.5%,https://leetcode.com/problems/valid-palindrome,is-palindrome,
+,Done - already in your repo,Already Solved,Solved,,138,Copy List with Random Pointer,Medium,63.3%,37.5%,https://leetcode.com/problems/copy-list-with-random-pointer,copy-linked-list-with-random-pointer,
+,Done - already in your repo,Already Solved,Solved,,146,LRU Cache,Medium,47.6%,50.0%,https://leetcode.com/problems/lru-cache,lru-cache,
+,Done - already in your repo,Already Solved,Solved,,169,Majority Element,Easy,66.4%,62.5%,https://leetcode.com/problems/majority-element,majority-element,
+,Done - already in your repo,Already Solved,Solved,Yes,191,Number of 1 Bits,Easy,77.1%,37.5%,https://leetcode.com/problems/number-of-1-bits,number-of-one-bits,
+,Done - already in your repo,Already Solved,Solved,,206,Reverse Linked List,Easy,80.8%,50.0%,https://leetcode.com/problems/reverse-linked-list,reverse-a-linked-list,
+,Done - already in your repo,Already Solved,Solved,,217,Contains Duplicate,Easy,64.5%,50.0%,https://leetcode.com/problems/contains-duplicate,duplicate-integer,
+,Done - already in your repo,Already Solved,Solved,,242,Valid Anagram,Easy,68.3%,50.0%,https://leetcode.com/problems/valid-anagram,is-anagram,
+,Done - already in your repo,Already Solved,Solved,Yes,347,Top K Frequent Elements,Medium,66.8%,37.5%,https://leetcode.com/problems/top-k-frequent-elements,top-k-elements-in-list,
+,Done - already in your repo,Already Solved,Solved,,380,Insert Delete GetRandom O(1),Medium,55.4%,37.5%,https://leetcode.com/problems/insert-delete-getrandom-o1,insert-delete-getrandom-o1,
+,Done - already in your repo,Already Solved,Solved,,394,Decode String,Medium,62.9%,37.5%,https://leetcode.com/problems/decode-string,decode-string,
+,Done - already in your repo,Already Solved,Solved,Yes,424,Longest Repeating Character Replacement,Medium,60.1%,37.5%,https://leetcode.com/problems/longest-repeating-character-replacement,longest-repeating-substring-with-replacement,
+,Done - already in your repo,Already Solved,Solved,Yes,704,Binary Search,Easy,61.1%,37.5%,https://leetcode.com/problems/binary-search,binary-search,
+,Done - already in your repo,Already Solved,Solved,Yes,875,Koko Eating Bananas,Medium,50.2%,50.0%,https://leetcode.com/problems/koko-eating-bananas,eating-bananas,
